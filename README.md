@@ -12,6 +12,13 @@ I'm **Pablo Martínez** (@pamalo9) currently studying last year of my  Bachelor 
 
 ## 📌 Projects
 
+- [Automated Description of Operations Extraction:]()  Collaborated with Coverwallet for the Zrive Applied Data Science program to develop an automated system to extract "description of operations" from companies based on their name and website. The project utilized advanced web scraping, search engine querying, and data summarization techniques to enrich an original database with detailed company descriptions.<br>
+ **Data Extraction Engine:** Employed web scraping libraries including Requests, BeautifulSoup, and html2text to gather data, along with search engine APIs from Bing, Google, and Wikipedia to pull relevant company information.<br>
+**Summarization and Analysis:** Utilized GPT-3.5-turbo from OpenAI for generating concise company summaries, comparing its performance with the Hugging Face BART model to ensure accuracy and brevity.<br>
+**Infrastructure and Standards Compliance:** Ensured consistency and project isolation by setting up Python 3.11.0 with pyenv, using poetry for dependency management and virtual environment creation. Implemented code standardization with tools such as Black for formatting, Flake8 for linting, and introduced mypy for static type checking.
+
+- [Machine learning-based trend predictors of price signals:]()
+
 
 ## 📢 Contacts
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/pablo-martínez-alonsoo)
