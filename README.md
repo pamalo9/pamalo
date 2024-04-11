@@ -33,6 +33,7 @@ I'm **Pablo Martínez** (@pamalo9) currently studying last year of my  Bachelor 
 
 ## 📢 Contacts
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/pablo-martínez-alonsoo)
+-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pamalo2002@gmail.com)
 
 ## Skills
 ### Actively using
